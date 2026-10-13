@@ -8,7 +8,7 @@ I first built this with a team at the Clay Club Berlin GTM hackathon (June 2026,
 
 Act as Personio's GTM team. You get 30 companies with only a name, domain, industry, country and headcount. Find who's worth contacting, enrich them, put them in the CRM and write the campaign.
 
-## Step 1: Qualify (done)
+## Step 1: Qualify 
 
 `scripts/filter_icp.py` applies four rules and writes every removed company with its reason to `data/removed.csv`.
 
@@ -23,7 +23,7 @@ Act as Personio's GTM team. You get 30 companies with only a name, domain, indus
 
 **Result: 30 companies → 17 targets.** See `data/targets.csv`.
 
-## Step 2: Enrich in Clay (to do)
+## Step 2: Enrich in Clay
 
 For the 17 targets:
 - Detected the current HR tool. The brief asked to keep only companies with no HRIS or a legacy one. The dataset had this column empty, so this check still needed to run.
@@ -32,13 +32,13 @@ For the 17 targets:
 
 
 
-## Step 3: Organize in HubSpot (to do)
+## Step 3: Organize in HubSpot
 
 - Imported companies and contacts.
 - Tagged each company by fit.
 
 
-## Step 4: The sequence (to do)
+## Step 4: The sequence
 
 Three emails to the Head of People sent.
 
