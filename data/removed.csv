@@ -1,0 +1,14 @@
+id,company_name,domain,industry,city,country,employees,reason
+12,HomeToGo GmbH,hometogo.de,Travel Tech,Berlin,DE,300,Already uses Personio: Careers page runs on hometogo.jobs.personio.com
+18,Urban Sports Club GmbH,urbansportsclub.com,Corporate Benefits Platform,Berlin,DE,200,Already uses Personio: Official Personio customer case study
+19,Flaconi GmbH,flaconi.de,Beauty E-Commerce,Berlin,DE,400,Already uses Personio: Careers page runs on flaconi.jobs.personio.de
+21,Sennder GmbH,sennder.com,Digital Freight Forwarding,Berlin,DE,1200,Too large (1200 employees)
+22,Westwing Group AG,westwing.com,Home & Living E-Commerce,Munich,DE,1500,Too large (1500 employees)
+23,Scout24 SE,scout24.com,Online Classifieds,Munich,DE,1800,Too large (1800 employees); Already uses Personio: Listed as a Personio customer
+24,Haufe Group,haufe.de,HR & Compliance Software,Freiburg,DE,2000,Too large (2000 employees); Competitor (HR & Compliance Software)
+25,Delivery Hero SE,deliveryhero.com,Food Delivery Platform,Berlin,DE,15000,Too large (15000 employees)
+26,SmartHR Co.,smarthr.jp,HR Software,Tokyo,JP,400,Outside DACH (JP); Competitor (HR Software)
+27,Recruitee B.V.,recruitee.com,Recruiting Software,Amsterdam,NL,150,Outside DACH (NL); Competitor (Recruiting Software)
+28,BambooHR LLC,bamboohr.com,HR Software,Lindon,US,1500,Too large (1500 employees); Outside DACH (US); Competitor (HR Software)
+29,Keka Technologies,keka.com,HR Software,Hyderabad,IN,800,Too large (800 employees); Outside DACH (IN); Competitor (HR Software)
+30,Factorial HR,factorialhr.com,HR & Payroll Software,Barcelona,ES,400,Outside DACH (ES); Competitor (HR & Payroll Software)

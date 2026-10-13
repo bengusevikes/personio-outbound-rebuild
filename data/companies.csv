@@ -1,0 +1,31 @@
+id,company_name,domain,industry,city,country,employees
+1,Heyflow GmbH,heyflow.com,No-Code SaaS,Hamburg,DE,70
+2,Agicap GmbH,agicap.com,Cash Flow Management SaaS,Munich,DE,180
+3,Getsafe GmbH,hellogetsafe.com,InsurTech,Heidelberg,DE,100
+4,Storyblok GmbH,storyblok.com,Headless CMS,Linz,AT,200
+5,Beekeeper AG,beekeeper.com,Frontline Worker Platform,Zurich,CH,250
+6,Frontify AG,frontify.com,Brand Management SaaS,St. Gallen,CH,200
+7,Yokoy Group AG,yokoy.com,Spend Management SaaS,Zurich,CH,200
+8,Refurbed GmbH,refurbed.com,Recommerce Electronics,Vienna,AT,200
+9,KoRo Drogerie GmbH,korodrogerie.de,D2C Food & Nutrition,Berlin,DE,200
+10,d.velop AG,d-velop.de,Digital Transformation SaaS,Gescher,DE,400
+11,Deposit Solutions GmbH,deposit-solutions.com,B2B Savings Platform,Hamburg,DE,250
+12,HomeToGo GmbH,hometogo.de,Travel Tech,Berlin,DE,300
+13,Volocopter GmbH,volocopter.com,Urban Air Mobility,Bruchsal,DE,500
+14,Valtech GmbH,valtech.com,Digital Consulting,Hamburg,DE,300
+15,Moss GmbH,getmoss.com,FinTech,Berlin,DE,250
+16,Clark Deutschland GmbH,clark.de,InsurTech,Frankfurt,DE,250
+17,Taxfix GmbH,taxfix.de,Tax Technology,Berlin,DE,250
+18,Urban Sports Club GmbH,urbansportsclub.com,Corporate Benefits Platform,Berlin,DE,200
+19,Flaconi GmbH,flaconi.de,Beauty E-Commerce,Berlin,DE,400
+20,Pitch Software GmbH,pitch.com,Presentation SaaS,Berlin,DE,100
+21,Sennder GmbH,sennder.com,Digital Freight Forwarding,Berlin,DE,1200
+22,Westwing Group AG,westwing.com,Home & Living E-Commerce,Munich,DE,1500
+23,Scout24 SE,scout24.com,Online Classifieds,Munich,DE,1800
+24,Haufe Group,haufe.de,HR & Compliance Software,Freiburg,DE,2000
+25,Delivery Hero SE,deliveryhero.com,Food Delivery Platform,Berlin,DE,15000
+26,SmartHR Co.,smarthr.jp,HR Software,Tokyo,JP,400
+27,Recruitee B.V.,recruitee.com,Recruiting Software,Amsterdam,NL,150
+28,BambooHR LLC,bamboohr.com,HR Software,Lindon,US,1500
+29,Keka Technologies,keka.com,HR Software,Hyderabad,IN,800
+30,Factorial HR,factorialhr.com,HR & Payroll Software,Barcelona,ES,400
