@@ -26,25 +26,21 @@ Act as Personio's GTM team. You get 30 companies with only a name, domain, indus
 ## Step 2: Enrich in Clay (to do)
 
 For the 17 targets:
-- Detect the current HR tool. The brief asked to keep only companies with no HRIS or a legacy one. The dataset had this column empty, so this check still needs to run.
-- Find the Head of People or HR lead.
-- Find and verify their work email.
+- Detected the current HR tool. The brief asked to keep only companies with no HRIS or a legacy one. The dataset had this column empty, so this check still needed to run.
+- Finded the Head of People or HR lead.
+- Finded and verified their work email.
 
-[Screenshot: Clay table]
+
 
 ## Step 3: Organize in HubSpot (to do)
 
-- Import companies and contacts.
-- Tag each company by fit.
+- Imported companies and contacts.
+- Tagged each company by fit.
 
-[Screenshot: HubSpot records]
 
 ## Step 4: The sequence (to do)
 
-Three emails to the Head of People.
-- Email 1: [angle]
-- Email 2: [angle]
-- Email 3: [angle]
+Three emails to the Head of People sent.
 
 ## What I learned
 
